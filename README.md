@@ -7,7 +7,7 @@
 
 ## The Code Consortium
 
-The Code Consortium is a collection of three packages written in Python, R, and Julia. They consist of efficient implementations of algorithms related to machine learning, streaming, and Monte Carlo methods, respectively. They were developed in collaboration with various other students with the goal of practicing modern package development (including CI/CD pipelines for testing, documentation, linting and benchmarking), building experience with collaboration on large code bases, and finally, sharing quality implementations of useful algorithms in a form more accessible to students than productionise packages.
+The Code Consortium is a collection of three packages written in Python, R, and Julia. They consist of efficient implementations of algorithms related to machine learning, streaming, and Monte Carlo methods, respectively. They were developed in collaboration with various other students with the goal of practicing modern package development (including CI/CD pipelines for testing, documentation, linting and benchmarking), building experience with collaboration on large code bases, and finally, sharing quality implementations of useful algorithms in a form more accessible to students than productionised packages.
 
 Follow the image links below to check out the project.
 
