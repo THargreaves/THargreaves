@@ -2,7 +2,7 @@
 
 ## Overview
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thargreaves&show_icons=true&layout=compact) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thargreaves)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=thargreaves&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thargreaves&layout=compact)
 
 
 ## The Code Consortium
